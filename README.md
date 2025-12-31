@@ -25,3 +25,4 @@ This project is a complete solution for predicting agricultural crop yields usin
 ## ⚙️ How to Run
 1. View the dashboard by opening `index.html` in your browser.
 2. Run the `Crop_Yield_Prediction_ML.ipynb` in Jupyter or Google Colab to see the model training process.
+3. 🔗 Live Demo: https://yashtajane502.github.io/Regression-Rebels/
